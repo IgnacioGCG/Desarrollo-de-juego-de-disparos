@@ -8,3 +8,4 @@ if __name__ == "__main__":
     game.end_game()
     print(game)
     game.reset_game()
+    
